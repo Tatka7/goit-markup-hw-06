@@ -550,7 +550,7 @@ img {
     line-height: 1.15;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
 }
 
 .benefits-list {
@@ -811,7 +811,7 @@ img {
 .container.footer {
     display: flex;
     align-items: baseline;
-    gap: 30px;
+    gap: 10px;
 }
 
 .footer-list .item +.item {
